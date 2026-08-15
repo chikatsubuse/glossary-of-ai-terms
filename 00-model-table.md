@@ -17,6 +17,7 @@
 | | GPT-5.6 Luna | 軽量 | 非公開 | 2026/7 | 高速・低価格帯 |
 | | gpt-oss-120b／20b | 汎用 | オープン | 2025/8 | 唯一の現役オープン版 |
 | | GPT Image 2 | 画像生成 | 非公開 | 2026/4 | 画像フラッグシップ |
+| | GPT-Realtime-2.1 | 音声 | 非公開 | 2026/7 | 音声エージェント向け |
 | | GPT-5.6-Cyber | サイバー特化 | 非公開 | 2026/8 | 承認組織限定（Daybreak） |
 | | Sora 2 | 動画生成 | 非公開 | 2025/9 | 提供終了へ・後継未発表 |
 | [Anthropic](09-labs-models/anthropic.md) | [Claude Fable 5](09-labs-models/fable.md) | リーズニング | 非公開 | 2026/6 | Mythos級の一般提供版 |
