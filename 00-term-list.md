@@ -1,6 +1,6 @@
 # 用語リスト（v3・確定版）
 
-- 全170語（キャンバス167枚 − 重複2枚 ＋ 追加5語）
+- 全172語（キャンバス167枚 − 重複2枚 ＋ 追加7語）
 - 並び順＝依存順。前のカードの用語は、後のカードで説明なしに使える
 - 見出しは日英併記ルール適用済み。メモの「元:」はキャンバス上のカード名
 
@@ -10,7 +10,7 @@
 - 「Reasoning」は **reasoning effort** のカードとして04へ配置（01の推論＝Inference、02のリーズニングモデルとは別物として3枚に役割分担）
 - 「誤回答」はハルシネーションと**別カードで確定**。ハルシネーション以外の間違いを担当
 - 追加4語：生成AI（01）、アライメント（03）、ベクトルDB（04）、著作権（06）
-- v3確定後の追加：FDE（08、2026年8月）——Palantirカード内の記載を独立カード化
+- v3確定後の追加（2026年8月）：FDE（08）＝Palantirカード内の記載を独立化、Prefix Caching（04）、Stripe（11）
 - 確認済み：Hermes Agent＝Nous Research のエージェント、Shizuku AI＝a16z出資の日本発AI VTuber
 - 表記修正：Transfomer→Transformer、temparature→temperature、Seekdance→Seedance、Unslowth→Unsloth、Preffered Network→Preferred Networks、Reflextion→Reflexion、Self-imporove→Self-improving、Agent force→Agentforce
 - **撤回**：「SpaceXAI→xAI」の表記修正は誤りだったため撤回（2026年2月にSpaceXがxAIを買収、5月にSpaceXAIブランドへ統合表明。元カード名が実態に即していた）
@@ -62,7 +62,7 @@
 | 10 | 量子化（Quantization） | |
 | 11 | スケーリング則（Scaling Laws） | |
 
-## 04 活用の基礎（19語）
+## 04 活用の基礎（20語）
 
 | # | 用語（見出し案） | メモ |
 |---|---|---|
@@ -77,14 +77,15 @@
 | 9 | コンテキスト（Context） | |
 | 10 | コンテキストウィンドウ（Context Window） | |
 | 11 | コンパクション（Compaction） | 長い対話・エージェント作業でのコンテキスト圧縮 |
-| 12 | プロンプトエンジニアリング（Prompt Engineering） | |
-| 13 | コンテキストエンジニアリング（Context Engineering） | |
-| 14 | エンベディング（Embedding） | 元: embedding |
-| 15 | ベクトルDB（Vector Database） | 追加 |
-| 16 | RAG（Retrieval-Augmented Generation） | 基準サンプル済み |
-| 17 | Structured Output（構造化出力） | |
-| 18 | Function Calling | tool useとほぼ同義。役割分担（API仕様／概念）で書き分け |
-| 19 | tool use（ツール使用） | 同上（Anthropic系の呼称） |
+| 12 | Prefix Caching | 追加（2026年8月） |
+| 13 | プロンプトエンジニアリング（Prompt Engineering） | |
+| 14 | コンテキストエンジニアリング（Context Engineering） | |
+| 15 | エンベディング（Embedding） | 元: embedding |
+| 16 | ベクトルDB（Vector Database） | 追加 |
+| 17 | RAG（Retrieval-Augmented Generation） | 基準サンプル済み |
+| 18 | Structured Output（構造化出力） | |
+| 19 | Function Calling | tool useとほぼ同義。役割分担（API仕様／概念）で書き分け |
+| 20 | tool use（ツール使用） | 同上（Anthropic系の呼称） |
 
 ## 05 AIエージェント（20語）
 
@@ -227,7 +228,7 @@
 | 21 | Palantir | |
 | 22 | Salesforce（Agentforce） | カード2枚 → 1枚に統合。表記修正 |
 
-## 11 プレイヤー：インフラ・プラットフォーム（10語）
+## 11 プレイヤー：インフラ・プラットフォーム（11語）
 
 | # | 用語（見出し案） | メモ |
 |---|---|---|
@@ -236,8 +237,9 @@
 | 3 | Groq | 推論特化チップ |
 | 4 | Cerebras | 推論特化チップ |
 | 5 | Cloudflare | |
-| 6 | AWS Bedrock | |
-| 7 | Azure OpenAI | |
-| 8 | Vertex AI | |
-| 9 | OpenRouter | マルチモデルAPIゲートウェイ |
-| 10 | Hugging Face | |
+| 6 | Stripe | 追加（2026年8月）。エージェントコマースの決済 |
+| 7 | AWS Bedrock | |
+| 8 | Azure OpenAI | |
+| 9 | Vertex AI | |
+| 10 | OpenRouter | マルチモデルAPIゲートウェイ |
+| 11 | Hugging Face | |
