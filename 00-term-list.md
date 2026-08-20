@@ -1,6 +1,6 @@
 # 用語リスト（v3・確定版）
 
-- 全173語（キャンバス167枚 − 重複2枚 ＋ 追加8語）
+- 全174語（キャンバス167枚 − 重複2枚 ＋ 追加9語）
 - 並び順＝依存順。前のカードの用語は、後のカードで説明なしに使える
 - 見出しは日英併記ルール適用済み。メモの「元:」はキャンバス上のカード名
 
@@ -10,7 +10,7 @@
 - 「Reasoning」は **reasoning effort** のカードとして04へ配置（01の推論＝Inference、02のリーズニングモデルとは別物として3枚に役割分担）
 - 「誤回答」はハルシネーションと**別カードで確定**。ハルシネーション以外の間違いを担当
 - 追加4語：生成AI（01）、アライメント（03）、ベクトルDB（04）、著作権（06）
-- v3確定後の追加（2026年8月）：FDE（08）＝Palantirカード内の記載を独立化、Prefix Caching（04）、Stripe（11）、ローカルとクラウド（07）
+- v3確定後の追加（2026年8月）：FDE（08）＝Palantirカード内の記載を独立化、Prefix Caching（04）、Stripe（11）、ローカルとクラウド（07）、クラウドエージェント（08）
 - 確認済み：Hermes Agent＝Nous Research のエージェント、Shizuku AI＝a16z出資の日本発AI VTuber
 - 表記修正：Transfomer→Transformer、temparature→temperature、Seekdance→Seedance、Unslowth→Unsloth、Preffered Network→Preferred Networks、Reflextion→Reflexion、Self-imporove→Self-improving、Agent force→Agentforce
 - **撤回**：「SpaceXAI→xAI」の表記修正は誤りだったため撤回（2026年2月にSpaceXがxAIを買収、5月にSpaceXAIブランドへ統合表明。元カード名が実態に即していた）
@@ -145,7 +145,7 @@
 | 5 | エッジAI／オンプレミス（Edge AI / On-premise） | 2語1枚 |
 | 6 | ソブリンAI（Sovereign AI） | |
 
-## 08 インターフェース・開発形態（8語）
+## 08 インターフェース・開発形態（9語）
 
 | # | 用語（見出し案） | メモ |
 |---|---|---|
@@ -155,8 +155,9 @@
 | 4 | スマホアプリ（Mobile App） | |
 | 5 | IDE（統合開発環境） | |
 | 6 | AIブラウザ／ブラウザ拡張（AI Browser / Browser Extension） | 2語1枚 |
-| 7 | バイブコーディング（Vibe Coding） | |
-| 8 | FDE（Forward Deployed Engineer） | 追加（2026年8月）。Palantirカード内の記載を独立化 |
+| 7 | クラウドエージェント（Cloud Agent） | 追加（2026年8月） |
+| 8 | バイブコーディング（Vibe Coding） | |
+| 9 | FDE（Forward Deployed Engineer） | 追加（2026年8月）。Palantirカード内の記載を独立化 |
 
 ## 09 プレイヤー：AIラボと主力モデル（37語）
 
